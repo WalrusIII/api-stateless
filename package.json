@@ -1,0 +1,24 @@
+{
+  "name": "Assignment-API-stateless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "glitch"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7",
+    "morgan": "1.10.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "description": ""
+}
